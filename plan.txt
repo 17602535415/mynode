@@ -1,0 +1,40 @@
+LONG-TERM PLAN
+
+	one: CSS + HTML
+	two: Vue3
+	three:canvars
+	four:GIS
+	five:Ts
+
+
+EVERYDAY PLAN
+	
+	1.$set.(先看)
+	2.css+html.（看多少算多少）
+	3.vue.（第二看）
+	4.面试常考题（看多少算多少）
+	5.改变this指向的方法
+	css层面的优化
+	vue的优化
+	promise
+	防抖节流
+	媒体查询
+	axios二次封装
+	接口调用
+	websocket
+	shiwufenzhong kaibiji shiwufenzhog kanbiji kanshiping  jihuazhizhong de shiqing xuyao shengmeyangzide chaonengli 
+
+KEY TASK EXPATIATION
+
+	one:$set
+	two:axios twice packaging;
+	three:css animation
+	four:vue each property
+	five:具体项目过程,滚动的例子描述的不够具体，不够仔细，需要构思出一个具体细致的场景
+
+
+	
+
+
+
+
